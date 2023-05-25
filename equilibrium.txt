@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            body{
+                background-color:#041b33;
+            }
+            .container{
+                background-color: #1b3457;
+                margin-left: 37%;
+                margin-right: 39%;
+                margin-top: 5%;
+                margin-bottom: 20px;
+                border-radius: 20px;
+            }
+            .txt{
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+                margin-left: 10px;
+                padding: 10px;
+            }
+            .p0::before{
+                content:url("C:\\Users\\deepa\\OneDrive\\Desktop\\icon.svg");
+                
+            }
+            
+            .p1::before{
+                content:url("C:\\Users\\deepa\\OneDrive\\Desktop\\clock.svg");
+            }
+            
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <img src="C:\Users\deepa\OneDrive\Desktop\\equilibrium.jpg" style="height:270px;width:300px;margin-left: 30px;margin-top: 20px;">
+            <h3 class="txt" style="color:white;"><b>Equilibrium #3429</b></h3>
+            <p class="txt" style="color: darkgray;">Our Equilibrium collection promotes<br>balance and calm.</p>
+            
+            <p0 class="p0" style="color: aqua;font-family: Verdana, Geneva, Tahoma, sans-serif;margin-left: 20px;margin-top: 20px;"><b> 0.041ETH</b></p0>
+            
+            <p1 class="p1" style="color: darkgray;margin-left: 230px;font-family: Verdana, Geneva, Tahoma, sans-serif;"> 3 days left</p1><hr>
+            <img src="C:\Users\deepa\OneDrive\Desktop\\avatar.png" style="height: 30px;width:30px;margin-left: 20px;margin-top: 6px;">
+            <p style="color:darkgray;font-family: Verdana, Geneva, Tahoma, sans-serif;margin-left: 60px;margin-top: -27px;">Creation of </p><p style="color:white;font-family: Verdana, Geneva, Tahoma, sans-serif;margin-left: 155px;margin-top: -35px;">Jules Wyvern</p><br>
+            
+    
+        </div>
+    </body>
+</html>
